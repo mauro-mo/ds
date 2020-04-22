@@ -4,9 +4,9 @@ Este repositorio contiene los notebooks que realicé en la carrera Data Science 
 
 • Predicción inteligente de precios de inmuebles
 
-  o	Numpy
+    o	Numpy
   
-  o	Pandas
+    o	Pandas
   
   o	Estadística descriptiva
   
