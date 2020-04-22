@@ -48,7 +48,7 @@ Este repositorio contiene los notebooks que realicé en la carrera Data Science 
   
     o	Watson API
   
-    o        Persistencia de modelos scikit-learn/python
+    o       Persistencia de modelos scikit-learn/python
   
-    o        Desarrollo API para acceder al modelo y predicciones
+    o       Desarrollo API para acceder al modelo y predicciones
   
